@@ -1,0 +1,11 @@
+Diabetes_analysis
+This is my first project in ML. Here, I used Python language, besides libraries like Pandas, Sklearn and Matplotlib. 
+Here, I used a diabetes DataFrame to predict people ages. It is used original ages, and then new ages are found out. 
+To this project, I used Python Language. Besides, some libraries like Pandas, Sklearn and Matplotlib are also present. 
+Something within this project is ML (Machine Learning). I got some basic concetps like Linear Regression.
+
+A description: 
+To load the data, I used Sklearn,which contains some examples to learn and practice ML and Data Science. 
+I created a DataFrame with Pandas, thus it is easier to manipulate data and do the things. 
+Sklearn is a well-known library in Machine Learning. I got this tool to predict new ages, using previous ages. 
+I'd like to continue learning Machine Learning and Data Science/Data Engineering. I hope this project be the first step to do it.
